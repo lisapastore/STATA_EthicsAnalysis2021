@@ -1,5 +1,5 @@
 ** analysis for Jia 2020
-** beow is the original dataset used for the ASRM abtrsact and the 1st submitted version of the manuscript
+** below is the original dataset used for the ASRM abtrsact and the 1st submitted version of the manuscript
 import excel "C:\Users\Lpastore\Documents\ASRM2020\ASRM2020_Jia_MaxDataset_ForUploadEvolution_EditID197.xlsx", sheet("Data4Upload_AgeMax") firstrow clear
 
 *** below is the updated dataset used in Oct 2020
